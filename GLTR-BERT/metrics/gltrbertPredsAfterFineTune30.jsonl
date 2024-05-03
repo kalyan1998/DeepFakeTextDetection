@@ -1,0 +1,1 @@
+{"model": "bert-large-cased", "AUC": 0.5003926729494339, "acc": 0.49033333333333334, "precision_machine": 0.4890282131661442, "recall_machine": 0.5220883534136547, "fscore_machine": 0.5050178051149239, "support_machine": 1494.0, "precision_human": 0.4918149466192171, "recall_human": 0.4588313413014608, "fscore_human": 0.47475094469254553, "support_human": 1506.0}
