@@ -17,5 +17,5 @@ python3 Main_l.py \
 --cache_dir='./models' \
 --label='machine' \
 --discriminator_type='gltr' \
---output_dir='./output/'
+--output_dir='./outputs/'
    
