@@ -1,0 +1,1 @@
+{"model": "gpt2-xl", "AUC": null, "acc": 0.01, "precision_machine": 1.0, "recall_machine": 0.01, "fscore_machine": 0.019801980198019802, "support_machine": 100.0, "precision_human": 0.0, "recall_human": 0.0, "fscore_human": 0.0, "support_human": 0.0}
